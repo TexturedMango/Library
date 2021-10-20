@@ -2,15 +2,15 @@ const tableh = document.querySelector('#tableh')
 
 let myLibrary = [
     {
-        name: 'Gayboys',
-        author: 'Fagman',
-        pages: 69,
+        name: 'TestBook1',
+        author: 'TestMan1',
+        pages: 123,
         read: true
     },
     {
-        name: 'Gayboys 2: Bottoms up',
-        author: 'Fagman',
-        pages: 420,
+        name: 'TestBook2',
+        author: 'TestMan2',
+        pages: 666,
         read: false
     }
 ]
